@@ -1,0 +1,4 @@
+interface:
+  display_name: "扣图"
+  short_description: "用 BiRefNet HR 和 PyMatting 抠发丝、去白边"
+  default_prompt: "用扣图技能处理这张图，保留发梢和鬓角细节，去掉指缝白边，输出透明 PNG。"

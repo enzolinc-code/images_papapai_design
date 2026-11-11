@@ -1,0 +1,7 @@
+numpy==2.5.4
+scipy==1.18.1
+Pillow==13.0.0
+onnxruntime==1.31.1
+pymatting==1.1.16
+numba==0.68.1
+llvmlite==0.50.0

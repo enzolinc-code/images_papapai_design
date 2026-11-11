@@ -1,0 +1,9 @@
+{
+  "upstream": "https://github.com/ZhengPeng7/BiRefNet",
+  "name": "BiRefNet_HR-matting.onnx",
+  "size": 1098928867,
+  "sha256": "45b7d92ce0e2e75e1c8a564a9e84c87ac9da7f4315d2deeef3674864e809aef3",
+  "url": "https://github.com/ZhengPeng7/BiRefNet/releases/download/v1/BiRefNet_HR-matting-epoch_135.onnx",
+  "license": "MIT",
+  "mirror": "https://hf-mirror.com/Gaurox/frameshift-models/resolve/main/birefnet_hr-matting-onnx/BiRefNet_HR-matting-epoch_135.onnx"
+}

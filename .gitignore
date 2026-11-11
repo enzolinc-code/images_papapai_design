@@ -1,0 +1,7 @@
+.venv/
+runtime/
+outputs/
+__pycache__/
+*.pyc
+*.part
+*.zip
